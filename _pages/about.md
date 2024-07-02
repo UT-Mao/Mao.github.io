@@ -25,3 +25,14 @@ Publications
 {% for post in site.projects reversed %}
   {% include archive-single.html %}
 {% endfor %}
+
+
+---
+title: "Training-Free Location-Aware Text-to-Image Synthesis"
+collection: publications
+permalink: /publication/2023-10-08-ICIP-Layout
+excerpt: 'Layout-to-Image Synthesis via cross-attention manipulation.'
+date: 2023-10-08
+venue: 'ICIP'
+paperurl: 'https://arxiv.org/abs/2304.13427'
+---

@@ -6,7 +6,7 @@ excerpt: 'Creating initial noise for controllable image generation.'
 date: 2024-09-29
 venue: 'ECCV'
 paperurl: 'https://arxiv.org/abs/2312.08872'
-citation: 'Jifeng Mao, Xueting Wang and Kiyoharu Aizawa. (2024). &quot;Paper Title Number 3.&quot; <i>ECCV</i>.'
+citation: # 'Jifeng Mao, Xueting Wang and Kiyoharu Aizawa. (2024). &quot;Paper Title Number 3.&quot; <i>ECCV</i>.'
 ---
 
 under working.

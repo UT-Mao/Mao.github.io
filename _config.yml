@@ -10,7 +10,7 @@
 locale                   : "en-US"
 title                    : "Your Name / Site Title"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Jiafeng Mao"
 description              : &description "personal description"
 url                      : "https://Mao.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -24,9 +24,9 @@ author:
   avatar           : "mao.png"
   name             : "Jiafeng Mao"
   pronouns         : # example: "she/her"  
-  bio              : "Research Scientist"
-  location         : "Toyko, Japan"
-  employer         : "CyberAgent AI Lab"
+  bio              : ""
+  location         : ""
+  employer         : ""
   uri              : # URL
   email            : "jiafeng_mao@cyberagent.co.jp" 
 

@@ -1,5 +1,5 @@
 ---
-title: "	The Lottery Ticket Hypothesis in Denoising:Towards Semantic-Driven Initialization"
+title: "The Lottery Ticket Hypothesis in Denoising:Towards Semantic-Driven Initialization"
 collection: publications
 permalink: /publication/2024-02-17-paper-title-number-4
 # excerpt: 'This paper is about fixing template issue #693.'

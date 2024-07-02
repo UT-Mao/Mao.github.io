@@ -11,9 +11,10 @@ I am currently a research scientist at CyberAgent AI Lab, and a project research
 
 My research interest is in Computer Vision, including image recognition, image generation and learning from synthetic images. 
 
-You can find my CV here: [Jiafeng Mao](../assets/Curriculum_Vitae.pdf)
 
 
+Publications
+------
 
 {% if site.author.googlescholar %}
   <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>

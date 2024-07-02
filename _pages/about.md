@@ -26,7 +26,7 @@ Publications
   {% include archive-single.html %}
 {% endfor %}
 
-
+{
 ---
 title: "Training-Free Location-Aware Text-to-Image Synthesis"
 collection: publications
@@ -36,3 +36,4 @@ date: 2023-10-08
 venue: 'ICIP'
 paperurl: 'https://arxiv.org/abs/2304.13427'
 ---
+}{% include archive-single.html %}

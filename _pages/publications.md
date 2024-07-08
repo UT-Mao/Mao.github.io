@@ -5,11 +5,13 @@ permalink: /publications/
 author_profile: true
 ---
 
-## International Conferences
 
 {% if site.author.googlescholar %}
   <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
 {% endif %}
+
+
+## International Conferences
 
 - **Jiafeng Mao**, Xueting Wang and Kiyoharu Aizawa. The Lottery Ticket Hypothesis in Denoising: Towards Semantic-Driven Initialization, in *ECCV 2024*. [Paper](https://arxiv.org/abs/2312.08872)
 
@@ -19,11 +21,11 @@ author_profile: true
 
 - **Jiafeng Mao** and Xueting Wang. Training-Free Location Aware Text-to-Image Synthesis, in *ICIP 2023*. [Paper](https://arxiv.org/pdf/2304.13427)
 
-- **Jiafeng Mao**， Qing Yu, Go Irie and Kiyoharu Aizawa. Noise-Avoidance Sampling for Annotation Missing Object Detection, in *ICIP 2023*. [Paper](https://ieeexplore.ieee.org/document/10222557)
+- **Jiafeng Mao**, Qing Yu, Go Irie and Kiyoharu Aizawa. Noise-Avoidance Sampling for Annotation Missing Object Detection, in *ICIP 2023*. [Paper](https://ieeexplore.ieee.org/document/10222557)
 
-- **Jiafeng Mao**， Qing Yu, Yoko Yamakata and Kiyoharu Aizawa. Noisy Annotation Refinement for Object Detection, in *BMVC 2021*. [Paper](https://www.bmvc2021-virtualconference.com/assets/papers/0778.pdf)
+- **Jiafeng Mao**, Qing Yu, Yoko Yamakata and Kiyoharu Aizawa. Noisy Annotation Refinement for Object Detection, in *BMVC 2021*. [Paper](https://www.bmvc2021-virtualconference.com/assets/papers/0778.pdf)
 
-- **Jiafeng Mao**， Qing Yu and Kiyoharu Aizawa. Noisy Localization Annotation Refinement for Object Detection, in *ICIP 2020*. [Paper](https://ieeexplore.ieee.org/document/9190728)
+- **Jiafeng Mao**, Qing Yu and Kiyoharu Aizawa. Noisy Localization Annotation Refinement for Object Detection, in *ICIP 2020*. [Paper](https://ieeexplore.ieee.org/document/9190728)
 
 ## Domestic Conferences
 
